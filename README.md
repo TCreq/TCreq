@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TCreq
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Python, R, and other things
-- 💞️ I’m looking to collaborate on anything cool
+- 🌱 I’m currently in last year of a master's program in Data Science
+- 💞️ I’m looking to collaborate on Machine learning Projects, especially aimed at helping the industry.
 - 📫 How to reach me : tudalcrequy@gmail.com
 
 <!---
